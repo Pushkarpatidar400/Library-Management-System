@@ -40,6 +40,4 @@ This is a simple Library Management System implemented in PHP. It allows users t
 
 
 
-## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as needed.
